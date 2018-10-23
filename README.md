@@ -1,2 +1,2 @@
 # Hackerank-solutions
-Hackerank solutions in C and python
+Hackerank solutions in C, C++ and python
